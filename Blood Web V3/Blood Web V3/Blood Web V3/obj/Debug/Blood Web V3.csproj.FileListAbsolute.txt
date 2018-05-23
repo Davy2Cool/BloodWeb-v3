@@ -1,0 +1,13 @@
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\bin\Debug\Blood Web V3.exe.config
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\bin\Debug\Blood Web V3.exe
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\bin\Debug\Blood Web V3.pdb
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood Web V3.csprojAssemblyReference.cache
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood_Web_V3.Form1.resources
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood_Web_V3.Properties.Resources.resources
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood Web V3.csproj.GenerateResource.cache
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood Web V3.csproj.CoreCompileInputs.cache
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood Web V3.exe
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood Web V3.pdb
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood_Web_V3.Form2.resources
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\obj\Debug\Blood Web V3.csproj.CopyComplete
+C:\Users\Shaen\source\repos\Blood Web V3\Blood Web V3\bin\Debug\WeAreDevs_API.dll
